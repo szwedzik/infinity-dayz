@@ -1,0 +1,38 @@
+FrameWidgetClass rootFrame {
+ color 1 1 1 0.3922
+ position 1712.32007 995.052
+ size 210.31 95.43
+ halign right_ref
+ valign top_ref
+ hexactpos 1
+ vexactpos 1
+ hexactsize 1
+ vexactsize 1
+ {
+  ImageWidgetClass Logo {
+   visible 1
+   clipchildren 0
+   inheritalpha 0
+   ignorepointer 0
+   keepsafezone 0
+   color 1 1 1 0.3137
+   position 17.668 37.4519
+   size 183 35
+   hexactpos 1
+   vexactpos 1
+   hexactsize 1
+   vexactsize 1
+   scaled 1
+   image0 ""
+   imageTexture "{A01CD93D1B4780C8}InfinityRP/assets/logo.edds"
+   mode blend
+   "src alpha" 1
+   "no wrap" 0
+   stretch 1
+   "flip u" 0
+   "flip v" 0
+   filter 0
+   nocache 0
+  }
+ }
+}
